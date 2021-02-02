@@ -1,3 +1,3 @@
-var name = "Demóstenes Silva";
+var nome = "Demóstenes Silva";
 
-alert("Meu primeiro JS");
+alert("Bem vindo " + nome);
